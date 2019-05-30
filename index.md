@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to my page !
 
-You can use the [editor on GitHub](https://github.com/Shubh0501/Shubh0501.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Shubham Pasari. I am currently pursuing B.Tech in Mathematics and Computing from Delhi Technological University(Formerly Delhi College of Engineering). I am interested in Mathematics and coding in Java and Python. 
+I also have experience in Android Development. For now, I am studying and learning Machine Learning. Currently, I am looking for opportunities in Android Development or Software Development. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Contact Me
 
-### Markdown
+#[Email](shubham050197@gmail.com)
+#[Facebook](https://www.facebook.com/shubham.pasari.05)
+#[LinkedIn](https://www.linkedin.com/in/shubham-pasari-a8539b131/)
+# Phone Number : +919560423990
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Links
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Shubh0501/Shubh0501.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#[Summer 2019](https://shubh0501.github.io/Summer-2019/)
