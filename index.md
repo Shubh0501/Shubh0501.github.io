@@ -5,9 +5,9 @@ I also have experience in Android Development. For now, I am studying and learni
 
 ### Contact Me
 
-#[Email](shubham050197@gmail.com)
-#[Facebook](https://www.facebook.com/shubham.pasari.05)
-#[LinkedIn](https://www.linkedin.com/in/shubham-pasari-a8539b131/)
+- [Email](shubham050197@gmail.com)
+- [Facebook](https://www.facebook.com/shubham.pasari.05)
+- [LinkedIn](https://www.linkedin.com/in/shubham-pasari-a8539b131/)
 # Phone Number : +919560423990
 
 ### Links
